@@ -1,1 +1,1 @@
-[Entlehnliste](entlehnliste.adoc)
+Link zur [Entlehnliste](entlehnliste.adoc)
